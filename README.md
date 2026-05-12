@@ -1,6 +1,6 @@
  Noir Music Player
 
-A beautiful, ad-free personal music player. Built with Electron.
+A beautiful, ad-free personal music player.
 # Quick Start (Run without building)
 
 1. Make sure you have **Node.js** installed → https://nodejs.org
