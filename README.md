@@ -40,13 +40,13 @@ npm run dist:linux
 
 # Keyboard Shortcuts
 
-Space: Play / Pause 
- →(right arrow): Skip forward (10s)
- ←(left arrow): Skip back (10s) 
- ↑(upside arrow): Volume up
- ↓(downside arrow): Volume down
- N: Next track
- P: Previous track 
- M: Mute
- L: Like track 
- S: Toggle shuffle
+ Space: Play / Pause <br>
+ →(right arrow): Skip forward (10s)<br>
+ ←(left arrow): Skip back (10s) <br>
+ ↑(upside arrow): Volume up <br>
+ ↓(downside arrow): Volume down <br>
+ N: Next track <br>
+ P: Previous track <br>
+ M: Mute <br>
+ L: Like track <br>
+ S: Toggle shuffle <br>
