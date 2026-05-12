@@ -1,4 +1,4 @@
- Noir — Music Player
+ Noir Music Player
 
 A beautiful, ad-free personal music player. Built with Electron.
 # Quick Start (Run without building)
