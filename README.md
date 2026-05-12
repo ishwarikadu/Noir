@@ -48,5 +48,5 @@ Space: Play / Pause
  N: Next track
  P: Previous track 
  M: Mute
-| L | Like track |
-| S | Toggle shuffle |
+ L: Like track 
+ S: Toggle shuffle
